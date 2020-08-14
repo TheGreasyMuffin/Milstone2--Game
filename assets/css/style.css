@@ -1,0 +1,12 @@
+/*------------------links--------------------*/
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+/*------------------images--------------------*/
+
+.select-img {
+    width: 250px;
+    height: 250px;
+}
